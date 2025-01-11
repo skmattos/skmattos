@@ -1,6 +1,8 @@
-# Onion Services
+# Links
 
 ---
+
+## Tor
 
 - [Tor: Onion Service Protocol](https://2019.www.torproject.org/docs/onion-services.html.en)
 - [Tor Community - Onion Services](https://community.torproject.org/onion-services/)
@@ -8,3 +10,5 @@
 - [Whonix - Onion Services](https://www.whonix.org/wiki/Onion_Services)
 
 ---
+
+[What Is a "Dead Man's Switch" and How Do You Set One Up?](https://www.makeuseof.com/what-is-dead-mans-switch-how-to-set-up/)
