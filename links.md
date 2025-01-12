@@ -8,6 +8,8 @@
 - [Tor Community - Onion Services](https://community.torproject.org/onion-services/)
 - [Best Practices for Hosting Onion Services](https://riseup.net/en/security/network-security/tor/onionservices-best-practices)
 - [Whonix - Onion Services](https://www.whonix.org/wiki/Onion_Services)
+- [OnionScan](https://onionscan.org/)
+- [The Vanguards Onion Service Addon](https://github.com/mikeperry-tor/vanguards) - [about](https://blog.torproject.org/announcing-vanguards-add-onion-services/)
 
 ---
 
