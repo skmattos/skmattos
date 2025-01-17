@@ -12,6 +12,12 @@
 - [The Vanguards Onion Service Addon](https://github.com/mikeperry-tor/vanguards) - [about](https://blog.torproject.org/announcing-vanguards-add-onion-services/)
 - [OnionShare](https://onionshare.org/)
 
+## Bitcoin
+- [Keep it simple bitcoin](https://www.keepitsimplebitcoin.com/)
+- [Bitcoin Only](https://bitcoin-only.com/)
+- [Electrum](https://electrum.org)
+- [Bitcoin](https://bitcoin.org/)
+
 ---
 
 [What Is a "Dead Man's Switch" and How Do You Set One Up?](https://www.makeuseof.com/what-is-dead-mans-switch-how-to-set-up/)
