@@ -10,6 +10,7 @@
 - [Whonix - Onion Services](https://www.whonix.org/wiki/Onion_Services)
 - [OnionScan](https://onionscan.org/)
 - [The Vanguards Onion Service Addon](https://github.com/mikeperry-tor/vanguards) - [about](https://blog.torproject.org/announcing-vanguards-add-onion-services/)
+- [OnionShare](https://onionshare.org/)
 
 ---
 
