@@ -18,6 +18,8 @@
 - [Electrum](https://electrum.org)
 - [Bitcoin](https://bitcoin.org/)
 - [qubes-whonix-bitcoin](https://github.com/qubenix/qubes-whonix-bitcoin/tree/master)
+- [Fail2Ban](https://github.com/fail2ban/fail2ban)
+- [https://bitnodes.io/#join-the-network](https://bitnodes.io/#join-the-network) - online tool to let you test whether your node accepts inbound connections.
 
 ## Monero
 
