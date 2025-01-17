@@ -17,6 +17,11 @@
 - [Bitcoin Only](https://bitcoin-only.com/)
 - [Electrum](https://electrum.org)
 - [Bitcoin](https://bitcoin.org/)
+- [qubes-whonix-bitcoin](https://github.com/qubenix/qubes-whonix-bitcoin/tree/master)
+
+## Monero
+
+- [How to use Monero CLI/daemon with Qubes + Whonix](https://www.getmonero.org/resources/user-guides/cli_wallet_daemon_isolation_qubes_whonix.html)
 
 ---
 
